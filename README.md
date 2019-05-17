@@ -15,6 +15,7 @@ Where CHARSET is a combination of the charsets you want to use:
 - u: Uppercase chars
 - l: Lowercase chars
 - n: Numbers
+
 So if you want to bruteforce using numbers and lowercase chars use the command
 > python crackPW.py mapFile.j2l ln
 
