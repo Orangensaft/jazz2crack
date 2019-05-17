@@ -11,7 +11,7 @@ Basically the script overrides the 3 bytes where the hashed password is saved wi
 Start the script crackPW.py with the file and the desired charset as follows:
 > python crackPW.py mapFile.j2l CHARSET
 
-Where CHARSET is a combination auf the charsets you want to use:
+Where CHARSET is a combination of the charsets you want to use:
 - u: Uppercase chars
 - l: Lowercase chars
 - n: Numbers
